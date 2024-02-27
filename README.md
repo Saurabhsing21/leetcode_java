@@ -2,68 +2,6 @@
 
 
 
-
-<!--### visitors 
-![visitor](https://profile-counter.glitch.me/java_leetcode_challenges_ahmedna126/count.svg?)-->
-<!--![](https://komarev.com/ghpvc/?username=javaleetcodechallengesahmedna126&color=blue&label=visitors)
-![](https://vbr.wocr.tk/badge?page_id=/java_leetcode_challenges&color=55acb7&logo=Github)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/ahmedna126/java_leetcode_challenges.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-
-[![Discord](https://img.shields.io/discord/971046860317921344?label=Discord&logo=discord)](https://discord.gg/examople)
-[![GitHub](https://img.shields.io/github/license/ahmedna126/java_leetcode_challenges)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
-![code-size](https://img.shields.io/github/languages/code-size/ahmedna126/java_leetcode_challenges)
-
-![](https://img.shields.io/github/repo-size/ahmedna126/java_leetcode_challenges?style=flat-square)
-
-## 💖Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/ahmedna126/java_leetcode_challenges.svg)](https://starchart.cc/ahmedna126/java_leetcode_challenges)
-
-### Visit my LeetCode profile at: [LeetCode Profile - Ahmedna126](https://leetcode.com/ahmedna126/)
-
---------------------------------------------
-
-<p align="center">
-  <a href="https://star-history.com/#ahmedna126/java_leetcode_challenges&Date">
-    <img src="https://api.star-history.com/svg?repos=ahmedna126/java_leetcode_challenges&type=Date" alt="Star History Chart">
-  </a>
-</p>
-
--->
-
-![](https://komarev.com/ghpvc/?username=javaleetcodechallengesahmedna126&color=blue&label=visitors)
-[![](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
-![](https://img.shields.io/github/stars/ahmedna126/java_leetcode_challenges.svg)
-![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
-![](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Ahmedna126)](https://leetcode.com/Ahmedna126)
-
-
-<!-- TODO: host this with VBR too -->
-<!-- 
-
-// go to https://dev.to/envoy_/150-badges-for-github-pnk#github-stats
-
-
-![](https://vbr.wocr.tk/badge?page_id=/java_leetcode_challenges&color=55acb7&style=for-the-badge&logo=Github)
-[![](https://goreportcard.com/badge/github.com/ahmedna126/java_leetcode_challenges)](https://goreportcard.com/report/github.com/ahmedna126/java_leetcode_challenges)
-[![](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
-![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
-![](https://img.shields.io/github/issues-closed-raw/ahmedna126/java_leetcode_challenges?label=Closed+Issues)
-![](https://img.shields.io/github/issues-pr-raw/ahmedna126/java_leetcode_challenges?label=Open+PRs)
-![](https://img.shields.io/github/issues-pr-closed-raw/ahmedna126/java_leetcode_challenges?label=Closed+PRs) 
-![](https://img.shields.io/github/downloads/ahmedna126/java_leetcode_challenges/total.svg)
-![](https://img.shields.io/github/stars/ahmedna126/java_leetcode_challenges.svg)
-
--->
-
-
-
-
 | Num | Question | Difficulty | Solution |
 | :--- | :--- | :--- | ---: |
 |1  | 1. Two Sum | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/1%20two%20sum%20532091433e064c7c9b7bbaec7a97d93f.md) |
